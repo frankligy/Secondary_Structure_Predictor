@@ -33,13 +33,15 @@ python3 protein_secondary_structure_predictor.py -h
 -v –vote   : distance or uniform
 -h –help   : check help information
 ```
-
+### Result
+![image of result](https://github.com/frankligy/Secondary_Structure_Predictor/blob/master/images/result.png)
 
 # More information
-Refer to /docs/secondaryStructure.pdf for more information
+Refer to `/docs/secondaryStructure.pdf` for more information
 
 # Contact
 <li2g2@mail.uc.edu>
+
 Guangyuan(Frank) Li, PhD student, Biomedical Informatics Program, Cincinnati Children's Hospital Medical Center
 
 
